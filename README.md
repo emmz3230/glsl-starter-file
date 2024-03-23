@@ -1,1 +1,1 @@
-an starter file for an article on glsl
+a starter file for an article on glsl
